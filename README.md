@@ -1,4 +1,4 @@
-# grpc
+# gRPC
 Simple boilerplate code to get familiar with GRPC 
 
 To issue golang generator code do
